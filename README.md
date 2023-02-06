@@ -4,7 +4,7 @@ _Добро пожаловать на мой сайт-портфолио, на �
 
 ## Обо мне
 Я учусь на 2 курсе в РГПУ им.Герцена, на направлении - Информатика и вычислительная техника. Моя группа - 1.1. Данный сайт создан в рамках дисциплины "Компьютерный практикум".
-![Myphoto](https://sun9-84.userapi.com/impg/XuByNnNFoVJPJSJMTrjvHgwbFuwqa7BdBxV_jw/HsJB59JwZCw.jpg?size=720x1080&quality=95&sign=757e4753e5f011ac885bca8e43c6da73&type=album)
+![Octocat](https://sun9-84.userapi.com/impg/XuByNnNFoVJPJSJMTrjvHgwbFuwqa7BdBxV_jw/HsJB59JwZCw.jpg?size=720x1080&quality=95&sign=757e4753e5f011ac885bca8e43c6da73&type=album)
 
 ## Дисциплины
 
