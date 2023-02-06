@@ -1,24 +1,23 @@
-# Сайт-портфолио студентки 2 курса РГПУ им. Герцена, группы 1.1, Васильевой Марины Андреевны
+# Сайт-портфолио
 
 _Добро пожаловать на мой сайт-портфолио, на котором будут выкладывать различные работы с всевозможных дисциплин в ВУЗе._
 
 ## Обо мне
-я пельмень
+Я учусь на 2 курсе в РГПУ им.Герцена, на направлении - Информатика и вычислительная техника. Моя группа - 1.1. Данный сайт создан в рамках дисциплины "Компьютерный практикум".
+![Myphoto](https://sun9-84.userapi.com/impg/XuByNnNFoVJPJSJMTrjvHgwbFuwqa7BdBxV_jw/HsJB59JwZCw.jpg?size=720x1080&quality=95&sign=757e4753e5f011ac885bca8e43c6da73&type=album)
 
 ## Дисциплины
 
-### Компьютерный практикум
-### Базы данных
-### Программирование
+### [Компьютерный практикум](./second-page.html).
+### [Базы данных](./third-page.html).
+### [Программирование](./fourth-page.html).
 
 **Раздел будет дополняться**
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./second-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
