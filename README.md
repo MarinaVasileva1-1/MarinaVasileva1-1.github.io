@@ -14,7 +14,7 @@ _Добро пожаловать на мой сайт-портфолио, на �
 **Раздел будет дополняться**
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./second-page.html).
 
 There should be whitespace between paragraphs.
 
